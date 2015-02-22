@@ -14,10 +14,6 @@
 		98EECB1A1A99B06C0047D63C /* CampKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 98EECB181A99B06C0047D63C /* CampKit.h */; };
 		98EECB1D1A99B3EC0047D63C /* CampKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EECB1C1A99B3EC0047D63C /* CampKitTests.swift */; };
 		98EECB1E1A99B3EC0047D63C /* CampKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98EECB1C1A99B3EC0047D63C /* CampKitTests.swift */; };
-		98EECB201A99B7FD0047D63C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 98EECB1F1A99B7FD0047D63C /* Info.plist */; };
-		98EECB211A99B7FD0047D63C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 98EECB1F1A99B7FD0047D63C /* Info.plist */; };
-		98EECB231A99B80C0047D63C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 98EECB221A99B80C0047D63C /* Info.plist */; };
-		98EECB241A99B80C0047D63C /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 98EECB221A99B80C0047D63C /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -287,7 +283,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				98EECB201A99B7FD0047D63C /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,7 +290,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				98EECB231A99B80C0047D63C /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,7 +297,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				98EECB211A99B7FD0047D63C /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,7 +304,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				98EECB241A99B80C0047D63C /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
