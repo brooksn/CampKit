@@ -1,19 +1,19 @@
 //
-//  CampKit_OSX.h
-//  CampKit_OSX
+//  CampKit.h
+//  CampKit
 //
-//  Created by Brooks Newberry on 2/21/15.
+//  Created by Brooks Newberry on 3/5/15.
 //
 //
 
-#import <Foundation/Foundation.h>
+#import <Cocoa/Cocoa.h>
 
-//! Project version number for CampKit_OSX.
+//! Project version number for CampKit.
 FOUNDATION_EXPORT double CampKitVersionNumber;
 
-//! Project version string for CampKit_OSX.
+//! Project version string for CampKit.
 FOUNDATION_EXPORT const unsigned char CampKitVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <CampKit_OSX/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like #import <CampKit/PublicHeader.h>
 
 
